@@ -1674,6 +1674,7 @@ class Level implements ChunkManager, Metadatable{
 		}
 
 
+
 		return $droppedItems;
 	}
 
